@@ -1,19 +1,19 @@
-package adiii;
+package adiiiii;
 
 public class Main {
     
     public static void main(String[] args) {
-    int angkaPertama = 10;
-        int angkaKedua = 3;
-        int angkaketiga = 12;
-        int hasil = +angkaPertama + angkaKedua * angkaketiga ;
+        int angka = 3;
         
-
-        System.out.println("Hasil penambahan: " + hasil);
-
-      
-
-
+        if(angka>3){
+            System.out.println("salah");
+        }else if(angka>4){
+          System.out.println("benar") ; 
+        
+        }else
+            
+        System.out.println("santui");
     }
+        
     
-}
+    }
